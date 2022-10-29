@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on hidden gem.
-- 🌱 I’m currently learning Java core conecepts.
+- 🌱 I’m currently learning Java core conecepts, SQL,Spring.
 - 👯 I’m looking to collaborate on  logo building.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Javascript,HTML,CSS
