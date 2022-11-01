@@ -1,4 +1,5 @@
-![MasterHead](https://www.learnupon.com/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif)
+![MasterHead](https://images.hdqwalls.com/wallpapers/think-twice-code-once.jpg)
+<!-- ![MasterHead](https://www.learnupon.com/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif) -->
   
  <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=ff33df&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Aasim+Syed+%F0%9F%91%8B;Back-End+Developer;Problem+Solver;front+End+Developer;Open-Source+Enthusiast" alt="Headline" />
