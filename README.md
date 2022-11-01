@@ -1,4 +1,4 @@
-![MasterHead](https://images.hdqwalls.com/wallpapers/think-twice-code-once.jpg)
+![MasterHeadwidth=500height=300](https://images.hdqwalls.com/wallpapers/think-twice-code-once.jpg)
 <!-- ![MasterHead](https://www.learnupon.com/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif) -->
   
  <div align=center>
