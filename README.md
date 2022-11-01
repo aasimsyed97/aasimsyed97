@@ -73,9 +73,8 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/aasimsyed97"><img alt="aasimsyd97's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aasimsyd97&custom_title=aasimsyed97's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/aasimsyed97"><img alt="aasimsyed97's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aasimsyed97&custom_title=aasimsyed97's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
 
 
   
