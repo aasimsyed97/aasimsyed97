@@ -1,17 +1,17 @@
 ![MasterHead](https://www.learnupon.com/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif)
   
  <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=ff33df&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jagatjit+Barik+%F0%9F%91%8B;Computer+Science+Student;Back-End+Developer;Problem+Solver;front+End+Developer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=ff33df&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Aasim+Syed+%F0%9F%91%8B;Back-End+Developer;Problem+Solver;front+End+Developer;Open-Source+Enthusiast" alt="Headline" />
     </div>
     
-<p align="right"> <h4>Profile Views :-</h4> <img src="https://komarev.com/ghpvc/?username=jagatjit15&label=Profile%20views&color=0e75b6&style=flat"
-    alt="jagatjit15" /> 
+<p align="right"> <h4>Profile Views :-</h4> <img src="https://komarev.com/ghpvc/?username=aasimsyed97&label=Profile%20views&color=0e75b6&style=flat"
+    alt="aasimsyed97" /> 
   </p>
   
   <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jagatjit-barik-3b0293209/">
+  <a href="https://www.linkedin.com/in/aasim-syed-4066b4243/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="My LinkedIn" height="50" width="50">
   </a>
 
@@ -23,7 +23,7 @@
  </h3>
 </div>
 
-<h3 align="center" text-decoration="none"><a href="https://jagatjit15.github.io/" target="_blank" rel="noopener noreferrer" >
+<h3 align="center" text-decoration="none"><a href="https://aasimsyed97.github.io/" target="_blank" rel="noopener noreferrer" >
     Visit my website
 </a></h3>
 
@@ -44,13 +44,13 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 
 ## Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jagatjit15&theme=algolia" alt="jagatjit15" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aasimsyed97&theme=algolia" alt="aasimsyed97" /></p>
   
   <br/>
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagatjit15&layout=compact&theme=algolia" alt="jagatjit15" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aasimsyed97&layout=compact&theme=algolia" alt="aasimsyed97" /></a> </p>
 
 -----
   <br>
@@ -60,10 +60,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jagatjit15's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jagatjit15&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aasimsyed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aasimsyed97&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jagatjit15&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jagatjit15" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasimsyed97&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aasimsyed97" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -72,7 +72,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/jagatjit15"><img alt="jagatjit15's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jagatjit15&custom_title=jagatjit15's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/aasimsyed97"><img alt="aasimsyd97's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aasimsyd97&custom_title=aasimsyed97's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
