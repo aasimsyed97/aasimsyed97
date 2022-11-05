@@ -27,7 +27,7 @@
 <h3 align="center" text-decoration="none"><a href="https://aasimsyed97.github.io/" target="_blank" rel="noopener noreferrer" >
     Visit my website
 </a></h3> 
-📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1kIrqC-2FxujRVX7pQTHcL60oo8oWPGNT/view )**
+📄 Know about my experiences **[Resume](file:///C:/Users/sayed/Downloads/Aasim-Syed-Resume.pdf/view )**
 
 <!-- - 🎯 Front-end and Back-end Developer-->
 
