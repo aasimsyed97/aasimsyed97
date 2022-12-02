@@ -20,7 +20,7 @@
 
 <div align="center" size='20px'>
  <h3>
- A passionate Back-end developer with a specialization in JAVA backend development. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
+ A passionate Full-Stack Web developer with a specialization in JAVA backend development. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
  </h3>
 </div>
 
