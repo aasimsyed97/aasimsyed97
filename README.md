@@ -56,7 +56,7 @@
 
 -----
   <br>
-  
+<!--   
   ## 📊 Github Stats
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -76,3 +76,4 @@
   <br/>
    <a href="https://github.com/aasimsyed97"><img alt="aasimsyed97's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aasimsyed97&custom_title=aasimsyed97's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+ -->
