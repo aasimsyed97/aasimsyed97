@@ -54,26 +54,5 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aasimsyed97&layout=compact&theme=algolia" alt="aasimsyed97" /></a> </p>
 
------
+
   <br>
-<!--   
-  ## 📊 Github Stats
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aasim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aasimsyed97&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasimsyed&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aasimsyed97" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/aasimsyed97"><img alt="aasimsyed97's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aasimsyed97&custom_title=aasimsyed97's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
- -->
