@@ -45,8 +45,8 @@
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 
-## Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aasimsyed97&theme=algolia" alt="aasimsyed97" /></p>
+<!-- ## Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aasimsyed97&theme=algolia" alt="aasimsyed97" /></p> -->
   
   <br/>
 
