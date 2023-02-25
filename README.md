@@ -28,7 +28,7 @@
     Visit my website
 </a></h3> 
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xv6Q_-oZSLFNF0kANra_ZRBR_EEIcfnr/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14_AhqrECicKNf-_IN292fvTI1tsz84UJ/view?usp=sharing)
 <!-- - 🎯 Front-end and Back-end Developer-->
 
 
